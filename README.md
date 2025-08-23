@@ -1,4 +1,5 @@
 # First-repository
-This is my first Git Repository
-author-Umar ali
+This is my first Git Repository.
+<br>
+Author-Umar ali
 
